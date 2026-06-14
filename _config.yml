@@ -1,3 +1,6 @@
-title: My Blog
-description: Notes about things
-theme: minimas
+title: Vineetha's Blog
+description: Learning Jekyll
+theme: minima
+
+url: "https://vineethap14git.github.io"
+baseurl: "/vini-site"
